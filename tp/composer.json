@@ -1,0 +1,16 @@
+{
+    "name": "ynov/users-composer",
+    "description": "composer & PSR-4 app intro",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "php -S localhost:8000 -t public/"
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
