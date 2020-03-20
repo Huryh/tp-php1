@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e1f4116-a860-4ba0-9192-ced345ed48ab" name="Default Changelist" comment="" />
+    <list default="true" id="8e1f4116-a860-4ba0-9192-ced345ed48ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USERS-POO" beforeDir="false" afterPath="$PROJECT_DIR$/../USERS-POO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp-php1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tp-php1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +17,16 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Z4SBAcDJehS584D9xjf331Kku1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tp-php1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ynov-b1-tp1-master" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SvnConfiguration">
@@ -44,7 +52,8 @@
       <workItem from="1584097394104" duration="2874000" />
       <workItem from="1584349710569" duration="2331000" />
       <workItem from="1584352106638" duration="1368000" />
-      <workItem from="1584354533919" duration="3653000" />
+      <workItem from="1584354533919" duration="3654000" />
+      <workItem from="1584450452860" duration="316000" />
     </task>
     <servers />
   </component>
@@ -56,17 +65,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="733" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584096882043" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584356656040">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584450767024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584356656040" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584450767024" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1584096768872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584096768872" />
-    <state x="1135" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584349710913">
+    <state x="1135" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584450608351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1135" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584349710913" />
+    <state x="1135" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584450608351" />
   </component>
 </project>
